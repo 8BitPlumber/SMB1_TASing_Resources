@@ -1,0 +1,30 @@
+SystemID NES
+0086	b	u	0	RAM	Pixel Position
+0400	b	h	0	RAM	Sub-Pixel
+0057	b	s	0	RAM	Speed
+0705	b	u	0	RAM	Sub Speed
+03AD	b	u	0	RAM	x-pos
+00CE	b	h	0	RAM	Y pixel
+0416	b	h	0	RAM	Y subpixel
+009F	b	s	0	RAM	Y speed
+0433	b	u	0	RAM	Y subspeed
+071D	b	u	0	RAM	Camera
+0	S	_	1		----------------------------
+0009	b	u	0	RAM	global timer
+077F	b	s	0	RAM	Framerule
+078F	b	u	0	RAM	Bill/Cheep timer (frenzy)
+079D	b	u	0	RAM	Multi-coin block timer
+0	S	_	1		----------------------------
+0087	b	u	0	RAM	Slot 0 X-pos
+0088	b	u	0	RAM	Slot 1 X-pos
+0089	b	u	0	RAM	Slot 2 X-pos
+008A	b	u	0	RAM	Slot 3 X-pos
+008B	b	u	0	RAM	Slot 4 X-pos
+00A0	b	u	0	RAM	Slot 0 Y speed
+00A1	b	u	0	RAM	Slot 1 Y speed
+00A2	b	u	0	RAM	Slot 2 Y speed
+00A3	b	u	0	RAM	Slot 3 Y speed
+00A4	b	u	0	RAM	Slot 4 Y speed
+0483	b	u	0	RAM	Bowser health
+0400	b	h	0	RAM	Subpixel
+
